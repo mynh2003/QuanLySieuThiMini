@@ -1,0 +1,230 @@
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.AssemblyReference.cache
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMenu_Admin.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frLogin.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMessagesError.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frChiTietHD.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frChiTietPN.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frChiTietPX.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMessagesSuccess.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMessagesWarring.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMenu_Staff.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frThanhToanHD.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frThanhToanPN.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frThongTinPM.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucBanHang.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucChamCong.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucChiaCaNV.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucHangHoa.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucNCC.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucTaiKhoan.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucThongKe.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucThuChi.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucDSHangCanNhap.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucNhaKho.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucNhanVien.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucPhieuNhap.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucPhieuXuat.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucTrangChu.resources
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.GenerateResource.cache
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.CoreCompileInputs.cache
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClosedXML.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dapper.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Irony.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\XLParser.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\stdole.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ClosedXML.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Dapper.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\novus\OneDrive\WindowsFormsApp1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.CopyComplete
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ClosedXML.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Dapper.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Irony.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.IO.Packaging.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\XLParser.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\EnvDTE.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\stdole.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ClosedXML.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\Dapper.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ExcelNumberFormat.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.IO.Packaging.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.AssemblyReference.cache
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMenu_Admin.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frLogin.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMessagesError.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frChiTietHD.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frChiTietPN.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frChiTietPX.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMessagesSuccess.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMessagesWarring.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frMenu_Staff.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frThanhToanHD.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frThanhToanPN.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frThongTinPM.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucBanHang.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucChamCong.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucChiaCaNV.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucHangHoa.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucNCC.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucTaiKhoan.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucThongKe.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucThuChi.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucDSHangCanNhap.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucNhaKho.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucNhanVien.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucPhieuNhap.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucPhieuXuat.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.UserControls.ucTrangChu.resources
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.GenerateResource.cache
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.CoreCompileInputs.cache
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\QuanLySieuThiMini.csproj.CopyComplete
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C# winform\QuanLySieuThiMini\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
